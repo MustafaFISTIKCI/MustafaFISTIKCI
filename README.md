@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa FISTIKÇI</h1>
-<h3 align="center">I'm Mustafa, I'm student in Firat Universty. Nowadays i am working to learn Kotlin and Java. I'm sharing my projeckts and things i learned in my profile.</h3>
+<h3 align="center">I'm Mustafa, I'm student in Firat Universty. Nowadays i am working to learn Kotlin and Java. I'm sharing my projects and things i learned in my profile.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MustafaFISTIKCI&icon=3&color=6)](https://visitcount.itsvg.in)
 
